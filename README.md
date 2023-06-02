@@ -41,6 +41,17 @@ WIP - Need understanding on criterion
 ## Results
 Model Accuracy at 20 Epoch
 <img width="1047" alt="Screenshot 2023-06-03 at 3 19 32 AM" src="https://github.com/tamilselvan-rs/tsai-bootcamp/assets/135374296/2cecc795-0139-4aef-8e01-12f2fccca785">
+
+## Open Questions
+1. Explanation on Conv2d method's parameters (esp. input and out channels)
+2. What is an optimizer?
+3. What is a scheduler?
+4. What is nll_loss?
+5. Why do we retrain the model with same dataset? Isn't it going to create problem of overfitting?
+6. Batch Size?
+7. When and how is the forward method called?
+8. What is zero_grad?
+9. What is loss.backward?
  
 
 
